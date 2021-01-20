@@ -7,3 +7,5 @@ To check the last commit in shivam branch.
 
 This change is done to check pull command.
 This line is only in local main.
+
+This is the line to check Conflict Merge Commit.
