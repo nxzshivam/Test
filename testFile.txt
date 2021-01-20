@@ -11,3 +11,9 @@ This line is only in local main.
 This is the line to check Merge Commit.
 
 This will create no conflict on remote branch.
+
+This is done to check update of last commit and append to it.
+Sorry, it was amend not append ;)
+This will change commit message from "Update Last Commit" to "Amend Last Commit".
+And finally amend this too.
+The final amendment.
