@@ -17,3 +17,7 @@ Sorry, it was amend not append ;)
 This will change commit message from "Update Last Commit" to "Amend Last Commit".
 And finally amend this too.
 The final amendment.
+
+This change is done to check "Force Commit".
+The changes are here.
+This it to change message from "Force Commit Check" to "New Force Commit".
